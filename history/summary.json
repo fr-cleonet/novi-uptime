@@ -1,7 +1,7 @@
 [
   {
     "name": "Esthetic Center",
-    "url": "https://estheticcenter-intra.cleonet.fr/",
+    "url": "https://estheticcenter-intra.cleonet.fr",
     "icon": "https://icons.duckduckgo.com/ip3/estheticcenter-intra.cleonet.fr.ico",
     "slug": "esthetic-center",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1244,
-    "timeDay": 1244,
-    "timeWeek": 1244,
-    "timeMonth": 1244,
-    "timeYear": 1244,
+    "time": 1012,
+    "timeDay": 1012,
+    "timeWeek": 1012,
+    "timeMonth": 1012,
+    "timeYear": 1012,
     "dailyMinutesDown": {}
   }
 ]
